@@ -1,4 +1,5 @@
 # apnaGit
 Video Tuto Apna Channel
 <br>
-by appjavadev
+Author: appjavadev
+By: <a href="http://echo-group.web.app">EchoGroup</a>
