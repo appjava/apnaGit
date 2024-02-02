@@ -20,3 +20,14 @@ Powered by: <a href="http://echo-group.web.app">EchoGroup</a>
     <li>git commit -a "Context commit"</li>
     <li>git push origin main</li>
 </ul>
+
+#### Local Repo
+
+<ul>
+    <li>git init</li>
+    <li>git remote add origin "url github repo"</li>
+    <li>git remote -v</li>
+    <li>git branch</li>
+    <li>git branch -M main</li>
+    <li>git push -u origin main</li>
+</ul>
