@@ -18,4 +18,5 @@ Powered by: <a href="http://echo-group.web.app">EchoGroup</a>
     <li>git add "file name"</li>
     <li>git restore "file name"</li>
     <li>git commit -a "Context commit"</li>
+    <li>git push origin main</li>
 </ul>
