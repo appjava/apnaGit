@@ -31,3 +31,14 @@ Powered by: <a href="http://echo-group.web.app">EchoGroup</a>
     <li>git branch -M main</li>
     <li>git push -u origin main</li>
 </ul>
+
+## Work Flow
+
+<ol>
+    <li>Github Repo Create</li>
+    <li>Clone repo locally</li>
+    <li>Made changes</li>
+    <li>Add changes to stage</li>
+    <li>Commit changes</li>
+    <li>Push to remote github repo</li>
+</ol>
